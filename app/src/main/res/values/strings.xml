@@ -2,5 +2,7 @@
     <string name="app_name">Wanjugu's</string>
 
     <string name="hello_world">Welcome!</string>
+    <string name="intro">This is my first Simple Android App</string>
+    <string name="button_1_text">Click Me! I'll Change stuff...</string>
     <string name="action_settings">Settings</string>
 </resources>
