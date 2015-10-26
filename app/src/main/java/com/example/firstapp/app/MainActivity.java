@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Changing our Textview on button click
+        // Changing our TextView on button click
         final TextView firstTextView = (TextView) findViewById(R.id.textView);
         Button firstButton = (Button) findViewById(R.id.firstButton);
 
